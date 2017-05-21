@@ -1,4 +1,4 @@
-# Pat's game board
+# modified game
 
 class Game
   
